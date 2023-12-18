@@ -501,7 +501,7 @@ var cnItems = {
     "Netflix Subscription": "Netflix 订阅",
     "next 3 days will be down days": "未来 3 天将是停机日",
     "no needles in these haystacks": "这些大海捞针没有针",
-    "no pictures please": "没有图片请",
+    "no pictures please": "没有图片",
     "no showers!": "没有淋浴！",
     "no vin number on this one": "这个没有 vin 号码",
     "not a soul in sight": "看不见一个人",
